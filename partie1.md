@@ -14,7 +14,7 @@
 ## Partie 1
 ### Pré-requis
 
- - [ ] Démarrer Docker
+ - [*] Démarrer Docker
  - [ ] Démarrer Minikube :
 > minikube start --driver=docker
 
